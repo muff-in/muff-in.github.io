@@ -121,7 +121,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/muff-in"
-
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/VdTRNA8"
 # Site Footer
 footer:
   links:
@@ -133,7 +135,7 @@ footer:
       url: "https://github.com/muff-in"
     - label: "Githacks"
       icon: "fab fa-fw fa-githacks"
-      # url: ""
+      url: "https://githacks.org/muff1n"
 
 
 # Reading Files
