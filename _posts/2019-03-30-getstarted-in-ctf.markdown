@@ -5,7 +5,7 @@ layout: single
 tags:
 - ctf
 categories:
-- ctf , guide
+- ctf
 ---
 
 
