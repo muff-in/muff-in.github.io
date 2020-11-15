@@ -1,12 +1,14 @@
 ---
 title: "How to get started in CTF?"
-date: 2019-03-30
-categories: [ctf]
-tags: ["ctf", "guide"]
-authors: [muffin]
+date: "2019-03-30"
+layout: single
+tags:
+- ctf
+categories:
+- ctf , guide
 ---
 
-<img src="/images/ctf.jpeg"/>
+
 
 
 ##### First, What are CTF Competitions?
