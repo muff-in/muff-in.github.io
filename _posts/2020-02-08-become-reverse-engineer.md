@@ -1,4 +1,3 @@
-
 ---
 title: "How to become a full stack reverse engineer?"
 date: "2020-02-08"
