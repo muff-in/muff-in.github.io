@@ -111,16 +111,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: 0xmuffin@pm.me          
+      url: 0xmuffin@pm.me          
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://muff-in.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_muffin31"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/muff-in"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/VdTRNA8"
