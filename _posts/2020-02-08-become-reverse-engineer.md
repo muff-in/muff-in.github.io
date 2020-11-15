@@ -1,10 +1,14 @@
+
 ---
 title: "How to become a full stack reverse engineer?"
-date: 2020-02-08
-categories: [reverse-engineering]
-tags: ["beginner", "reverse-engineering"]
-authors: [muffin]
+date: "2020-02-08"
+layout: single
+tags:
+- reverse-engineering, howto 
+categories:
+- reverse-engineering 
 ---
+
 
 
   I'd like to paste a guide to becoming a full stack reverse engineer by one of my favorite reverse engineers, Cody "Daeken" Brocious: 
