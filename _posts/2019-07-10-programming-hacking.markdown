@@ -3,7 +3,7 @@ title: ""Programming Languages for Hacking!"
 date: "2019-07-10"
 layout: single
 tags:
-- "programming languages", "hacking"
+- programming languages
 categories:
 - programming-languages
 ---
