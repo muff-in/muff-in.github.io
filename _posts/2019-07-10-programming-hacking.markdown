@@ -3,15 +3,10 @@ title: ""Programming Languages for Hacking!"
 date: "2019-07-10"
 layout: single
 tags:
-- programming languages
+- programming
 categories:
 - programming-languages
 ---
-
-
-
-
-
 Programming is essential for hacking because a hacker is someone who breaks a protocol or application security which is programmed in a certain programming language and to hack an application a hacker needs to understand the logic of that app, find a flaw and the exploit it. So a hacker must learn a couple of programming languages to complete his task.
 
 
