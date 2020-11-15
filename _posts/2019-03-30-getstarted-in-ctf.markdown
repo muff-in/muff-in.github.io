@@ -3,7 +3,7 @@ title: "How to get started in CTF?"
 date: "2019-03-30"
 layout: single
 tags:
-- ctf
+- ctf, guide
 categories:
 - ctf
 ---
