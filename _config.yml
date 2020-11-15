@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "/muffin"
 title_separator          : "-"
-name                     : "Muffin"
+name                     : "muffin"
 description              : "Interested in game hacking and security research."
 url                      : muff-in.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,12 +106,12 @@ analytics:
 author:
   name             : "muffin"
   avatar           : /assets/images/download.png
-  bio              : "I break games and try to understand how they work"
+  bio              : "I break games and try to understand how they work."
   email            : 0xmuffin@pm.me
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: 0xmuffin@pm.me          
+      #url: 0xmuffin@pm.me          
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://muff-in.github.io"
