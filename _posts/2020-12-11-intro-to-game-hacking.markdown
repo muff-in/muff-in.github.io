@@ -137,6 +137,8 @@ The best way to learn is through forums and tutorials, that's how I’m learning
 ![image from imgflip](/assets/images/posts/10.jpeg "image from imgflip")
 
 
+##
+
 
 This was just an introductory blog. I will be releasing more detailed blogs on specific topics of game hacking in the upcoming series.
 
