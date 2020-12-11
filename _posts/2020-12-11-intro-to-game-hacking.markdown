@@ -78,3 +78,68 @@ If you want to learn reverse engineering, I would suggest you write some C or C+
 [A curated list of Assembly Language / Reversing / Malware Analysis -resources](https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121#reverse-engineering)
 
 [Applied Reverse Engineering Series](https://revers.engineering/applied-reverse-engineering-series/)
+
+## *Step 5: Tools :*
+
+![x86dbg](/assets/images/posts/7.png "x86dbg")
+
+Cheat Engine is the most important tool when you’re reverse engineering a game but that doesn’t mean you will not use any other tools. You will also use different disassemblers and debuggers like IDA, Ghidra, x86dbg, OllyDbg, etc. That's why learning those tools is also important.
+
+**Resources & tutorials:**
+
+[Cheat Engine Tutorial Guide](https://youtu.be/Nib69uZJCaA)
+
+[Ollydbg Tutorial](https://youtu.be/D6mVIos-S2M)
+
+[Ghidra quickstart & tutorial: Solving a simple crackme](https://youtu.be/fTGTnrgjuGA)
+
+[Introduction to Reverse Engineering with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
+
+[IDA Pro Reverse Engineering Tutorial for Beginners](https://www.youtube.com/playlist?list=PLKwUZp9HwWoDDBPvoapdbJ1rdofowT67z)
+
+## *Step 6: Watch YouTube Tutorials & Read Blogs*
+
+The best way to learn is through forums and tutorials, that's how I’m learning through this phase of mine.
+
+![Guidedhacking](/assets/images/posts/8.png "Guidedhacking")
+
+**Tutorials that I would like to suggest:**
+
+[GuidedHacking](https://www.youtube.com/user/L4DL4D2EUROPE)
+
+[GameHackingAcademy](https://gamehacking.academy/about)
+
+[must-do-game-hacking-tutorials](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911/)
+
+[The Game Hacking Resource](https://github.com/dsasmblr/game-hacking)
+
+**Game Hacking Forums**
+
+Guided Hacking [https://guidedhacking.com/]
+
+UnKnoWnCheaTs Forum [https://unknowncheats.me/]
+
+REGames Discord [https://discord.gg/VdTRNA8]
+
+REGames Reddit [https://www.reddit.com/r/REGames/]
+
+Cheat Engine Forum [https://forum.cheatengine.org/]
+
+## *Step 7: Learn to use DuckDuckGo*
+
+![duckduckgo](/assets/images/posts/9.jpeg "image from google")
+
+**Do you even duckduckgo bro?** You can found everything on the internet. If you stuck anywhere while learning, just open duckduckgo and start searching about it.
+
+## *Step 8: Practice & Practice*
+
+
+![image from imgflip](/assets/images/posts/10.jpeg "image from imgflip")
+
+
+
+This was just an introductory blog. I will be releasing more detailed blogs on specific topics of game hacking in the upcoming series.
+
+I’m still at my learning phase so feel free to constructively criticize my posts which definitely will improve my knowledge & help me to grow! :heart:
+
+Also huge thanks to GuidedHacking, GameHakingAcademy, GameHackingBook, and other people. I have learned almost everything from these guys. Till then keep hacking !!
