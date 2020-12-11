@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "muffin"
   avatar           : /assets/images/download.png
-  bio              : "I break games and try to understand how they work."
+  bio              : "Reverse-engineering video games."
   email            : 0xmuffin@pm.me
   links:
     - label: "Email"
