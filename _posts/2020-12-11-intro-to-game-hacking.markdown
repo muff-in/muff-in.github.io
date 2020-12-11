@@ -115,15 +115,15 @@ The best way to learn is through forums and tutorials, that's how I’m learning
 
 **Game Hacking Forums**
 
-Guided Hacking [https://guidedhacking.com/]
+[Guided Hacking](https://guidedhacking.com/)
 
-UnKnoWnCheaTs Forum [https://unknowncheats.me/]
+[UnKnoWnCheaTs Forum](https://unknowncheats.me/)
 
-REGames Discord [https://discord.gg/VdTRNA8]
+[REGames Discord](https://discord.gg/VdTRNA8)
 
-REGames Reddit [https://www.reddit.com/r/REGames/]
+[REGames Reddit](https://www.reddit.com/r/REGames/)
 
-Cheat Engine Forum [https://forum.cheatengine.org/]
+[Cheat Engine Forum](https://forum.cheatengine.org/)
 
 ## *Step 7: Learn to use DuckDuckGo*
 
