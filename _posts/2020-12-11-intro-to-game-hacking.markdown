@@ -3,7 +3,7 @@ title: "Introduction to Game Hacking!"
 date: "2020-12-11"
 layout: single
 tags:
-- game-hacking
+- game-hacking reverse-engineering
 categories:
 - game-hacking
 ---
