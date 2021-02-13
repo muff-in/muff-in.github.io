@@ -130,9 +130,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/muff-in"
-    - label: "Githacks"
-      icon: "fab fa-fw fa-githacks"
-      url: "https://githacks.org/muff1n"
+  
 
 
 # Reading Files
