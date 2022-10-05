@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  
 published: true
 ---
 
@@ -14,7 +14,7 @@ published: true
 - Community Lead: [REGames Discord Server]( https://discord.com/servers/regames-760531247704702996)
 - Volunteer Judge: <a href="https://www.tracelabs.org/">Trace Labs.</a>
 
-<br />
+<br /> <!-- image: profile.png used to set profile pic -->
 
 **Connect:** 🛸
 
