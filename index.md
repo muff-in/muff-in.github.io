@@ -7,7 +7,6 @@ profile:
 published: true
 ---
 
-- You can contact me through [email](mailto:notmuffin@tuta.io).
 - I'm a first-year undergraduate pursuing a Bachelor's degree in Computer Applications. I spend a lot of time auditing code for vulnerabilities.  
 - My current projects revolve primarily around reverse engineering, windows internals, game engine hacking, anti-cheat software pentesting, hypervisors, and other low-level security stuff.
 - I'm also experimenting with the Rust programming language and LLVM.
@@ -19,6 +18,7 @@ published: true
 
 **Connect:** 🛸
 
+- You can contact me through [email](mailto:notmuffin@tuta.io).
 - Twitter: [@_muffin31](https://twitter.com/_muffin31)
 - Discord: muffin#0640
 
