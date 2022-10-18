@@ -9,7 +9,7 @@ categories:
 ---
 
 # History
-![image from google](/assets/images/posts/1.jpeg "image from google")
+![image from google](/assets/images/posts/blog1/1.jpeg "image from google")
 
 The history of video games goes as far back as the early 1950s, but video games did not reach mainstream popularity until the 1970s and 1980s when video game consoles and home computer games were introduced to the layman public.
 
@@ -18,14 +18,14 @@ When online PC games became popular and started to draw large crowds in the1990s
 
 # How to tinker around Game?
 
-![image from unknowncheats.me](/assets/images/posts/2.jpeg "image from unknowncheats.me")
+![image from unknowncheats.me](/assets/images/posts/blog1/2.jpeg "image from unknowncheats.me")
 
 Video games are simply applications but yet they are the most complex applications you can ever imagine. So, if you want to learn game hacking I would suggest not to jump on and try to hack complicated games, start with something easy like [Urban Terror](https://www.urbanterror.info/home/), [Assault Cube](https://assault.cubers.net/), and [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/). Some games are made to help you in learning game hacking like [Pwn Adventure 3](https://www.pwnadventure.com/). You can also make your own game and try to hack it, that way you will get the perspective of a game developer and if you have written several games using a certain game engine, it definitely would be easier to hack another game built on the same engine. Quiet a simple suggestion would be not trying to learn game hacking on new games like **Valorant**, **PUBG**, **Apex Legend**, etc. Because they are too complicated for beginners.
 
 # How do you get started?
 
 ## *STEP 1: Learn about Cheat Engine*
-![cheat engine](/assets/images/posts/3.png "cheat engine")
+![cheat engine](/assets/images/posts/blog1/3.png "cheat engine")
 
 **What is Cheat Engine?**
 Cheat Engine is a Powerful memory scanning tool. It allows you to access data stored in your computer’s memory and make changes to that data. This allows you to change the information in a game, such as health, ammo, etc. It also comes with a debugger, disassembler, assembler, trainer maker, direct 3D manipulation tools, system inspection tools, and more.
@@ -34,7 +34,7 @@ It also has a tutorial that you can find in your help menu [(Cheat Engine Tutori
 
 ## *STEP 2: Learning C++ or C#.*
 
-![image from Upwork](/assets/images/posts/4.png "image from Upwork")
+![image from Upwork](/assets/images/posts/blog1/4.png "image from Upwork")
 
 A general question many people ask is “**Should I learn C++ or C#?**”
 The answer is C++. Because most of the games are written in C++ and it's also good for developing cheats.
@@ -55,7 +55,7 @@ The x86 Assembly language is a low-level programming language, it can be describ
 
 Understanding Assembly is a very important part of game hacking. You have to understand the code when you will reverse engineer the game. That’s why you must learn about registers, the stack, instructions, memory, virtual storage, rings, other protection mechanisms, I/O, interrupts, etc.
 
-![cheat engine](/assets/images/posts/5.png "cheat engine")
+![cheat engine](/assets/images/posts/blog1/5.png "cheat engine")
 
 You will see the use of assembly- language when you will get through the Cheat Engine Tutorials.
 
@@ -67,7 +67,7 @@ You will see the use of assembly- language when you will get through the Cheat E
 
 ## *Step 4: Reverse Engineering*
 
-![Wikipedia](/assets/images/posts/6.png "Wikipedia")
+![Wikipedia](/assets/images/posts/blog1/6.png "Wikipedia")
 
 In simple words, reverse engineering is the process of extracting knowledge or design information from an application and recreate it or create anything based on the extracted information. Game hacking is a branch of reverse engineering on its own, you have to understand the logic of the game to find a flaw and exploit it. This means you should have at least basic knowledge of reverse engineering before you jump into game hacking.
 
@@ -81,7 +81,7 @@ If you want to learn reverse engineering, I would suggest you write some C or C+
 
 ## *Step 5: Tools :*
 
-![x86dbg](/assets/images/posts/7.png "x86dbg")
+![x86dbg](/assets/images/posts/blog1/7.png "x86dbg")
 
 Cheat Engine is the most important tool when you’re reverse engineering a game but that doesn’t mean you will not use any other tools. You will also use different disassemblers and debuggers like IDA, Ghidra, x86dbg, OllyDbg, etc. That's why learning those tools is also important.
 
@@ -101,7 +101,7 @@ Cheat Engine is the most important tool when you’re reverse engineering a game
 
 The best way to learn is through forums and tutorials, that's how I’m learning through this phase of mine.
 
-![Guidedhacking](/assets/images/posts/8.png "Guidedhacking")
+![Guidedhacking](/assets/images/posts/blog1/8.png "Guidedhacking")
 
 **Tutorials that I would like to suggest:**
 
@@ -127,14 +127,14 @@ The best way to learn is through forums and tutorials, that's how I’m learning
 
 ## *Step 7: Learn to use DuckDuckGo*
 
-![duckduckgo](/assets/images/posts/9.jpeg "image from google")
+![duckduckgo](/assets/images/posts/blog1/9.jpeg "image from google")
 
 **Do you even duckduckgo bro?** You can found everything on the internet. If you stuck anywhere while learning, just open duckduckgo and start searching about it.
 
 ## *Step 8: Practice & Practice*
 
 
-![image from imgflip](/assets/images/posts/10.jpeg "image from imgflip")
+![image from imgflip](/assets/images/posts/blog1/10.jpeg "image from imgflip")
 
 
 ____________________________________________________________________________________________________________________________________________________________________________
