@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Navneet"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Sharing stuffs"
+  bio    : "Just sharing stuff"
   links:
     - label: "X"
       icon: "fa-brands fa-x-twitter"
