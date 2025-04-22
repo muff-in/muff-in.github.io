@@ -71,12 +71,12 @@ author:
 
 footer:
   links:
-    - label: "X"
-      icon: "fa-brands fa-x-twitter"
-      url: "https://x.com/navneetr4j"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/muff-in"
+#   - label: "X"
+#      icon: "fa-brands fa-x-twitter"
+#      url: "https://x.com/navneetr4j"
+#   - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/muff-in"
 
 defaults:
   # _posts
