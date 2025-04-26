@@ -21,17 +21,7 @@ When it runs  Pupkin steals:
 - Full desktop screenshots
 - Files from the user’s desktop
 
-Then it neatly zips everything up and sends it out via Telegram. Simple and effective, right? But here's the catch…
-
-As soon as you dive into the code, it's clear: **This was written by a complete rookie.**
-
-The code is heavily hardcoded, barely flexible, and while it technically "works," it’s far from anything resembling real-world infostealers. There’s no dynamic configuration, no fallback C2 servers, no real encryption  just a brute-force, amateurish smash-and-grab job.
-
-Compared to actual malware in the wild, this is child's play. It gets the job done, sure, but in the most obvious and unsophisticated way possible.
-
-Even though it's basic and clunky, **Pupkin still manages to do its job**. It proves that even poorly executed malware, when deployed quickly and without errors, can still get the job done effectively.
-
-In this blog, I’ll break down **Pupkin’s workflow**  where it works, where it fails, and where it truly shows its rookie nature. Let’s dive in.
+This analysis will break down the stealer's structure, highlight key behaviors, and explore how even basic infostealers remain a persistent danger in today’s threat landscape.
 
 # Stage 0: File Info
 
@@ -1398,7 +1388,7 @@ namespace Main
 | Command and Control | T1071.001 | Application Layer Protocol | Uses Telegram API. |
 | Exfiltration | T1041 | Exfiltration Over C2 Channel | Sends ZIP via Telegram. |
 
-# Summary
+# Conclusion
 
 **Pupkin** is a basic .NET-based info stealer designed for Windows.
 
@@ -1410,5 +1400,10 @@ The stealer runs tasks in parallel to speed things up, bundles the stolen data i
 - **Chat ID**: `7613862165`
 
 It has no real obfuscation, no persistence mechanism, and depends on fixed file paths and static credentials.
-
 It’s simple, noisy, but effective enough for low-effort, low-skill attacks.
+
+# References
+
+1. MITRE ATT&CK.[https://attack.mitre.org/](https://attack.mitre.org/).
+2. ChatGPT. [https://www.chatgpt.com](https://Chatgpt.com).
+3. VT. [https://virustotal.com](https://virustotal.com).
