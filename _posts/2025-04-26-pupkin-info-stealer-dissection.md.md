@@ -44,7 +44,7 @@ In this blog, I’ll break down **Pupkin’s workflow**  where it works, where i
 
 # Stage 1: Basic Overview
 
-![image.png](image.png)
+![image.png](/assets/images/blog2/die1.png)
 
 First, I dropped the file into **Detect It Easy (DIE)** to gather initial information about the binary.
 
@@ -52,7 +52,7 @@ The first observation: DIE suggested that the binary is **obfuscated and packed*
 
 ### Entropy Analysis:
 
-![image.png](image%201.png)
+![image.png](/assets/images/blog2/die2.png)
 
 - **Overall PE32 File Entropy**: 7.99810 → Marked as “packed (99%)”
 - **Section-wise Entropy**:
@@ -1298,7 +1298,7 @@ Pupkin uses a Telegram bot for C2 and exfiltration, with a hard-coded token (801
 
 Testing confirms the bot is active as of April 27, 2025.
 
-![WhatsApp Image 2025-04-27 at 00.53.41_ed6874bc.jpg](WhatsApp_Image_2025-04-27_at_00.53.41_ed6874bc.jpg)
+!Telegram C2](/assets/images/blog2/ps.png)
 
 - **Bot Details**:
     - **ID**: 8013735771
@@ -1366,7 +1366,7 @@ namespace Main
 
 # High-Level Execution Flow Chart
 
-![image.png](image%202.png)
+![image.png](/assets/images/blog2/flow.png)
 
 # Indicators of Compromise (IOCs)
 
