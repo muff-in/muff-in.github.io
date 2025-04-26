@@ -1298,7 +1298,7 @@ Pupkin uses a Telegram bot for C2 and exfiltration, with a hard-coded token (801
 
 Testing confirms the bot is active as of April 27, 2025.
 
-[!Telegram C2](/assets/images/blog2/ps.jpg)
+![Telegram C2](/assets/images/blog2/ps.jpg)
 
 - **Bot Details**:
     - **ID**: 8013735771
