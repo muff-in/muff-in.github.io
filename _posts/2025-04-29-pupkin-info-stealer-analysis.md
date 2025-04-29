@@ -1,6 +1,6 @@
 ---
 title: "Pupkin: A Simple .NET Info-Stealer Exfiltrating Data via Telegram"
-date: 2025-04-29T14:34:30-04:00
+date: 2025-04-29T11:34:30-04:00
 categories:
   - Blog
 tags:
