@@ -335,8 +335,6 @@ Let’s walk through it:
 - Silently ignores any access or kill errors.
 
 # Stage 4:  FunctionsForStealer
-<details>
-<summary>View the code</summary>
 
 ```csharp
 using System;
@@ -535,8 +533,6 @@ namespace Helpers
 }
 
 ```
-
-</details>
 
 The code is in a namespace called **Helpers** and has a class **FunctionsForStealer** with two nested classes: **LocalStateKeys** and **FunctionsForDecrypt**. These classes are all about:
 
@@ -1483,8 +1479,6 @@ get_updates()
 
 
 # Variables
-<details>
-<summary>View Variables</summary>
 
 ```csharp
 using System;
@@ -1532,7 +1526,6 @@ namespace Main
     }
 }
 ```
-</details>
 
 # High-Level Execution Flow Chart
 
