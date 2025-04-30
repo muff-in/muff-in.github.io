@@ -1690,7 +1690,7 @@ rule PupkinStealer
         $lib_costura = "Costura" ascii
         $lib_ionic_zip = "Ionic.Zip" ascii
 
-		$telegram_api = "https://api.telegram.org/bot" ascii
+	$telegram_api = "https://api.telegram.org/bot" ascii
         $telegram_send_document = "sendDocument?chat_id=" ascii
         $telegram_bot_token = "8013735771:AAE_UrTgQsAmiAsXeDN6mehD_fo3vEg-kCM" ascii
         $telegram_chat_id = "7613862165" ascii
