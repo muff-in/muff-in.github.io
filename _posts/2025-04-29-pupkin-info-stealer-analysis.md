@@ -1667,7 +1667,7 @@ The group’s focus on “bot tokens” suggests it’s a testing ground for Tel
 
 # YARA Rule
 
-```yara
+```yar
 
 rule PupkinStealer
 {
