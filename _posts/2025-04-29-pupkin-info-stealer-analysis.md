@@ -35,7 +35,7 @@ tags:
 
 # Introduction
 
-I recently came across a .NET-based info-stealer that caught my eye. Pupkin Stealer is surprisingly slick for how simple it is, avoiding fancy evasion tricks or heavy code masking. It just gets to work, running several tasks at once to grab sensitive data and send it off through Telegram. But a few big mistakes in the code, like botching binary file uploads, show it’s likely the work of someone new to the scene.
+I recently came across a .NET-based info-stealer that caught my eye. Pupkin Stealer is surprisingly slick for how simple it is, avoiding fancy evasion tricks or heavy code masking. It just gets to work, running several tasks at once to grab sensitive data and send it off through Telegram. But a few rookie mistakes in the code, show it’s likely the work of someone new to the scene.
 While it resembles Malware-as-a-Service (MaaS) due to its structured data theft, there's no clear evidence it’s offered as a service. It’s more a "try-hard" attempt at a functional stealer than a true MaaS product.
 
 When it’s running, Pupkin goes after:
@@ -1142,7 +1142,7 @@ namespace Helpers
 - Recursively calls itself for all subdirectories and adds their sizes.
 - Returns total directory size as `long` (bytes).
 
-# Stage 9:  Data Dispatch
+# Stage 9: Data Dispatch
 
 ```csharp
 using System;
@@ -1638,10 +1638,6 @@ The group’s focus on “bot tokens” suggests it’s a testing ground for Tel
 **Challenges**: Hardcoded credentials and no unique code markers make precise attribution tough. @JoeBlanky and “Ardent” need more data to confirm their roles.
 
 # Executive Summary
-
-
-# Pupkin Stealer Summary
-
 **Pupkin Stealer** is a .NET-based malware designed to steal browser passwords, Discord tokens, Telegram sessions, desktop files, and screenshots, sending the data to attackers via Telegram. First spotted on April 20, 2025, it uses a hardcoded Telegram bot token and chat ID.
 
 ### Key Points:
